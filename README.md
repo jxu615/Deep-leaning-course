@@ -1,2 +1,2 @@
 # Deep-leaning-course
-task for deep learning course--jinXu
+task for deep learning course--JinXu
